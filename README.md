@@ -20,7 +20,7 @@
 
 ---
 
-<h2>Social Info :bar_chart:</h2>
+<h2>Social Info :</h2>
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/theajayrawat/">
@@ -36,7 +36,7 @@
 
 ---
 
-<h2>Coding Platform :bar_chart:</h2>
+<h2>Coding Platform :</h2>
 
 <div id="badges">
     <a href="https://leetcode.com/theajayrawat/">
@@ -50,7 +50,7 @@
 ---
 
 
-<h2>Skills & Tools :bar_chart:</h2>
+<h2>Skills & Tools :</h2>
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=react,js,cpp,mongodb,html,css,git,github,vscode,tailwind&perline=10">
@@ -59,7 +59,7 @@
 
 ---
 
-<h2>Github Stats :bar_chart:</h2>
+<h2>Github Stats :</h2>
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=theajayrawat&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=theajayrawat&theme=react" />
