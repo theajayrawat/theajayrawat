@@ -47,9 +47,9 @@
 
 ---
 
-<h2 align="center">Languages and Tools</h2>
+### 🔗 Coding Platform:
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,js,cpp,mongodb,html,css,git,github,vscode,tailwind&perline=5">
+  <img src="https://skillicons.dev/icons?i=react,js,cpp,mongodb,html,css,git,github,vscode,tailwind&perline=1">
 </p>
 
 
