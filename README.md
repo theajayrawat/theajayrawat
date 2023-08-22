@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
     </a>
     <a href="https://auth.geeksforgeeks.org/user/theajayrawat">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logo=Twitter&logoColor=white" alt="GeeksForGeeks Badge"/>
+    <img src="https://img.shields.io/badge/GeeksForGeeks-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks Badge"/>
     </a>
 </div>
 
