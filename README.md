@@ -34,6 +34,8 @@
     </a>
 </div>
 
+---
+
 ### 🔗 Coding Platform:
 
 <div id="badges">
@@ -66,7 +68,6 @@
 <a href="https://github.com/theajayrawat/github-stats">
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
