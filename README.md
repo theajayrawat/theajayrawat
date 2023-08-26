@@ -53,7 +53,7 @@
 <h2>Skills & Tools :</h2>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=react,js,cpp,mongodb,html,css,git,github,vscode,tailwind&perline=10">
+  <img src="https://skillicons.dev/icons?i=js,react,next,cpp,mongodb,html,css,tailwind,git,github,vscode&perline=10">
 </p>
 
 
