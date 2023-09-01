@@ -59,7 +59,7 @@
 
 ---
 
-<h2>Github Stats :bar_chart:</h2>
+<h2>Github stats :bar_chart:</h2>
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=theajayrawat&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=theajayrawat&theme=react" />
