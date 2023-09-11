@@ -10,7 +10,7 @@
 
 - I am an aspiring Front-end Developer
 
-- I am currently learning React.js and other stack tools.
+- I am currently learning  React and PHP 
 
 - I post my tech journey on **Twitter**
 
@@ -53,7 +53,7 @@
 <h2>Skills & Tools :</h2>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,react,php,cpp,mongodb,html,css,tailwind&perline=8">
+  <img src="https://skillicons.dev/icons?i=js,react,php,cpp,mongodb,sql,mysql,tailwind&perline=8">
 </p>
 
 
