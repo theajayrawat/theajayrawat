@@ -50,10 +50,10 @@
 ---
 
 
-<h2>Skills & Tools :</h2>
+<h2>Tech Stack :</h2>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=js,react,php,cpp,mongodb,sql,mysql,tailwind&perline=8">
+  <img src="https://skillicons.dev/icons?i=js,react,php,cpp,mongodb,mysql,tailwind&perline=8">
 </p>
 
 
