@@ -51,7 +51,7 @@
 <h2>Tech Stack :</h2>
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=ts,js,jquery,react,next,php,wordpress,c,cpp,mongodb,mysql,tailwind&perline=6">
+  <img src="https://skillicons.dev/icons?i=ts,js,jquery,react,next,tailwind,c,cpp,mongodb,mysql,php,wordpress&perline=6">
 </p>
 
 
