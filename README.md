@@ -2,8 +2,9 @@
 <div>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color36BCF7FF&background=FFD22800&center=true&vCenter=true&width=850&lines=Hello,+I'm+Ajay+Rawat,+Welcome+to+My+Profile!+;I+am+an+aspiring+full-stack+ developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theajayrawat&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p>
+
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theajayrawat&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p>
 
 <div style="display:flex">
   <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
