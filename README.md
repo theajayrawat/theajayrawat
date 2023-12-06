@@ -62,7 +62,6 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=theajayrawat&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=theajayrawat&theme=react" />
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theajayrawat)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
